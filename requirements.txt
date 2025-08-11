@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+mlflow
+scikit-learn
+ipykernel
+streamlit
+seaborn
+xgboost
