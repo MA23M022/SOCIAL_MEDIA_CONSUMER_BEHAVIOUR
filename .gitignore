@@ -1,1 +1,4 @@
 SOCIAL_MEDIA_ML/
+.vscode/
+mlartifacts/
+mlruns/
